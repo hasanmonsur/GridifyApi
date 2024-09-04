@@ -17,7 +17,8 @@
 ## Notable features
 
 - Install-Package Dapper
-- dotnet add package Dapper
+- Install-Package Gridify
+
 
 ## License
 
